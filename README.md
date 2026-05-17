@@ -9,5 +9,5 @@ Instagram SSL pinning Bypass on Android iOS devices. Latest version bypassed Ins
 **413.0.0.41.84**
 
 ### contact me
-## Contact Telegram @dacent53
-https://t.me/dacent53
+## Contact Telegram @dacent87
+https://t.me/dacent87
